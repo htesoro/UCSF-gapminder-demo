@@ -1,11 +1,11 @@
-#!/bin/bash
+##!/bin/bash
 
 ##########################################################
 # This script will download the split gap minder zip file,
 # unzip it, 
 ##########################################################
 
-
+# This is aa comment added on GitHub
 echo Creating project directory structure
 sleep 2
 mkdir -v data code output data/archive
